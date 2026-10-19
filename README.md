@@ -29,3 +29,11 @@
   <a href="https://www.roblox.com/users/26376058/profile" title="roblox"><img src="./assets/links/roblox.png" alt="roblox" width="97" height="36" /></a>
 </p>
 
+<p align="center"><img src="./assets/fragment.png" alt="Fragment" width="300" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contribution-snake.svg" />
+  <img src="./assets/contribution-snake-dark.svg" alt="Snake animation of larpingledger's GitHub contributions" width="100%" />
+</picture>
+

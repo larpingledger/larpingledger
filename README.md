@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets/vir-cursor.gif" alt="vir" width="260" height="94" /></p>
+<p align="center"><img src="./assets/vir-cursor-aligned.gif" alt="vir" width="260" height="94" /></p>
 
 <p align="center">
   <img src="./assets/badges/python.png" alt="Python" height="36" width="119" />

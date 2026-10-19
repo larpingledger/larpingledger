@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+  <title id="title">vir — virs.site</title>
+  <desc id="desc">A charcoal and lavender profile banner with a softly glowing orbit, a little cat, and the words code, music, and my corner of the internet.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#15121e"/>
+      <stop offset=".6" stop-color="#0b0b10"/>
+      <stop offset="1" stop-color="#191321"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#b09acb" stop-opacity=".19"/>
+      <stop offset="1" stop-color="#b09acb" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#b0a1ca" stroke-opacity=".055"/>
+    </pattern>
+    <linearGradient id="line">
+      <stop stop-color="#b0a1ca" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#b0a1ca" stop-opacity=".65"/>
+      <stop offset="1" stop-color="#b0a1ca" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="rounded"><rect x="1" y="1" width="1198" height="348" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="350" fill="url(#background)"/>
+    <rect width="1200" height="350" fill="url(#grid)"/>
+    <ellipse cx="963" cy="170" rx="310" ry="260" fill="url(#glow)"/>
+    <g fill="none" stroke="#b0a1ca">
+      <circle cx="968" cy="173" r="113" stroke-opacity=".17"/>
+      <circle cx="968" cy="173" r="142" stroke-opacity=".065"/>
+      <ellipse cx="968" cy="173" rx="173" ry="48" transform="rotate(-32 968 173)" stroke-opacity=".25"/>
+      <path d="M928 88l8-24 22 17h22l22-17 8 24v51c0 22-18 40-41 40s-41-18-41-40Z" stroke-width="2" stroke-opacity=".8" transform="translate(0 38)"/>
+      <path d="M947 164h1m42 0h1" stroke-width="5" stroke-linecap="round"/>
+      <path d="m963 176 5 4 5-4m-5 4v5m-25-9-17-3m17 12-17 3m68-12 17-3m-17 12 17 3" stroke-width="1.5" stroke-opacity=".8"/>
+    </g>
+    <circle cx="1091" cy="104" r="4" fill="#c9b4e1"/>
+    <circle cx="854" cy="244" r="2.5" fill="#9383ad"/>
+    <path d="M815 82h8m-4-4v8m287 171h8m-4-4v8" stroke="#9383ad" stroke-opacity=".7"/>
+    <g font-family="Consolas, 'Courier New', monospace">
+      <text x="64" y="55" font-size="12" letter-spacing="2.5" fill="#8c809d">A SMALL CORNER OF THE INTERNET</text>
+      <text x="62" y="180" font-family="Segoe UI, Arial, sans-serif" font-size="112" font-weight="700" letter-spacing="-8" fill="#eeeaf3">vir<tspan fill="#b0a1ca">.</tspan></text>
+      <text x="67" y="225" font-size="18" fill="#a9a2b4">code, music &amp; whatever comes next.</text>
+      <rect x="65" y="258" width="175" height="39" rx="19.5" fill="#b0a1ca" fill-opacity=".09" stroke="#b0a1ca" stroke-opacity=".3"/>
+      <text x="86" y="283" font-size="16" fill="#d4c5e6">virs.site</text>
+      <path d="M210 282v-9m-9 0h9m-9 9 9-9" stroke="#d4c5e6" stroke-width="1.4" fill="none"/>
+      <text x="1127" y="310" text-anchor="end" font-size="11" letter-spacing="2" fill="#766881">/ VIR</text>
+    </g>
+    <path d="M46 332h1108" stroke="url(#line)"/>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="349" rx="22" fill="none" stroke="#b0a1ca" stroke-opacity=".17"/>
+</svg>

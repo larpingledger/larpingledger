@@ -20,8 +20,8 @@
 
 <p align="center">
   <a href="https://virs.site" title="virs.site"><img src="./assets/links/site.png" alt="virs.site" width="104" height="36" /></a>
-  <a href="https://badopsec.cc/movies" title="badopsec.cc/movies"><img src="./assets/links/movies.png" alt="badopsec.cc/movies" width="195" height="36" /></a>
-  <a href="https://github.com/larpingledger/virshub" title="virs hub"><img src="./assets/links/hub.png" alt="virs hub" width="107" height="36" /></a>
+  <a href="https://badopsec.cc/movies" title="badopsec.cc/movies"><img src="./assets/links/movies-v2.png" alt="badopsec.cc/movies" width="195" height="36" /></a>
+  <a href="https://github.com/larpingledger/virshub" title="virs hub"><img src="./assets/links/hub-v2.png" alt="virs hub" width="107" height="36" /></a>
 </p>
 
 <p align="center">

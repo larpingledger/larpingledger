@@ -1,4 +1,4 @@
-<h1 align="center">vir</h1>
+<p align="center"><img src="./assets/vir-cursor.gif" alt="vir" width="260" height="94" /></p>
 
 <p align="center">
   <img src="./assets/badges/python.png" alt="Python" height="36" width="119" />
@@ -19,9 +19,13 @@
 </p>
 
 <p align="center">
-  <a href="https://virs.site" title="virs.site"><img src="./assets/site.svg" alt="virs.site" width="26" height="26" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://badopsec.cc/movies" title="Movies — badopsec.cc/movies"><img src="./assets/movies.svg" alt="Movies" width="26" height="26" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/larpingledger/virshub" title="Virs Hub"><img src="./assets/hub.svg" alt="Virs Hub" width="26" height="26" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/205702996128956416" title="Discord — flg8"><img src="./assets/discord.svg" alt="Discord" width="26" height="26" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.roblox.com/users/26376058/profile" title="Roblox — k2a"><img src="./assets/roblox.svg" alt="Roblox" width="26" height="26" /></a>
+  <a href="https://virs.site" title="virs.site"><img src="./assets/links/site.png" alt="virs.site" width="104" height="36" /></a>
+  <a href="https://badopsec.cc/movies" title="badopsec.cc/movies"><img src="./assets/links/movies.png" alt="badopsec.cc/movies" width="195" height="36" /></a>
+  <a href="https://github.com/larpingledger/virshub" title="virs hub"><img src="./assets/links/hub.png" alt="virs hub" width="107" height="36" /></a>
 </p>
+
+<p align="center">
+  <a href="https://discord.com/users/205702996128956416" title="discord"><img src="./assets/links/discord.png" alt="discord" width="104" height="36" /></a>
+  <a href="https://www.roblox.com/users/26376058/profile" title="roblox"><img src="./assets/links/roblox.png" alt="roblox" width="97" height="36" /></a>
+</p>
+
